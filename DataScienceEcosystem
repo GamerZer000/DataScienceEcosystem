@@ -1,0 +1,33 @@
+# Data Science Tools and Ecosystem
+# In this notebook, Data Science Tools and Ecosystem are summarized
+**Objectives:**
+
+- List popular languages for Data Science
+- List of used libraries
+- Understand the use of calculation tools
+- Run some code for simple calculations
+Some of the popular languages that Data Scientists use are:
+1. Python
+2. Julia
+3. R
+4. Scala
+5. SQL
+Some of the commonly used libraries used by Data Scientists include:
+1. Pandas
+2. NumPy
+3. Matplotlib
+4. TensorFlow
+|Data Science Tools|
+|------------------|
+|RStudio           |
+|Jupyter Notebook  |
+|Spyder            |
+### Below are a few examples of evaluating arithmetic expressions in Python.
+result = (3*4)+5
+print (result)
+# This a simple arithmetic expression to mutiply then add integers
+hours=200/60
+print (hours)
+# This will convert 200 minutes to hours by diving by 60
+## Author
+Mr X
